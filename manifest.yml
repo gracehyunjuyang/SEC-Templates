@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: SEC-Templates
-  host: SEC-Templates
+  name: bmx-demo-templates
+  host: bmx-demo-templates
   disk_quota: 1024M

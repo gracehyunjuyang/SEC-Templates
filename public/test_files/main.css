@@ -73,7 +73,7 @@ body { font-family: 'Libre Franklin', Helvetica, Arial, sans-serif; margin-top: 
 
 h1, h2, h3, h4, h5, h6 { font-family: 'PT Sans Caption', Helvetica, Arial, sans-serif; font-weight: 700; }
 
-.page-heading { position: relative; padding: 30px 15px; text-align: center; color: rgba(255, 255, 255, 0.5); background-color: #1428a0; margin-bottom: 30px; font-size: 20px; background-image: url("/img/bg.png"); }
+.page-heading { position: relative; padding: 30px 15px; text-align: center; color: rgba(255, 255, 255, 0.5); background-color: #162839; margin-bottom: 30px; font-size: 20px; background-image: url("/img/bg.png"); }
 .page-heading h1 { margin-top: 0; color: white; }
 .page-heading p { margin-bottom: 0; line-height: 1.4; }
 .page-heading .container { position: relative; }
